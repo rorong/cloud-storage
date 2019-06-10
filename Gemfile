@@ -34,6 +34,7 @@ gem 'jbuilder', '~> 2.5'
 # gem 'capistrano-rails', group: :development
 gem 'jquery-rails', '~> 4.3', '>= 4.3.1'
 gem 'carrierwave', '~> 0.11.2'
+gem 'carrierwave-aws', '~> 1.0'
 gem 'bootstrap', '~> 4.0'
 
 # Reduces boot times through caching; required in config/boot.rb
